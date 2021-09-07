@@ -1,46 +1,5 @@
- hot-fix@qq.com
+ hot-fix@qq.com === master@qq.com
 
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
- git config --global user.email Devil@gmail.com
  git config --global user.email Devil@gmail.com
  git config --global user.email Devil@gmail.com
  git config --global user.email Devil@gmail.com
