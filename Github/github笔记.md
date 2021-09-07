@@ -26,7 +26,7 @@ git push 远程仓库地址(远程仓库地址别名 或者 远程仓库地址) 
 
 git pull 远程仓库地址 分支名
 
-案列：git push demo1 master
+案列：git pull demo1 master
 
 
 
@@ -34,4 +34,4 @@ git pull 远程仓库地址 分支名
 
 git clone 远程仓库地址
 
-案列
+案列 
