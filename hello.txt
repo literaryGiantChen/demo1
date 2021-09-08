@@ -1,5 +1,5 @@
  hot-fix@qq.com === master@qq.com
- zxcvbnm literaryGiantChen xifandevil,网易邮箱6.0版
+ 1647251522@ literaryGiantChen xifandevil,网易邮箱6.0版
  git config --global user.email Devil@gmail.com
  git config --global user.email Devil@gmail.com
  git config --global user.email Devil@gmail.com
